@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alcantara19
-- 👀 I’m interested in gaming
+- 👀 I’m interested in (?)
 - 🌱 I’m currently learning basic programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
